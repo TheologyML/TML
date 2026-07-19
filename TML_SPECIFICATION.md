@@ -9,7 +9,6 @@ This document describes the TML model, diagrams, validation rules, and project s
 
 ## Table of contents
 
-- Visual Reference
 - 1. Purpose
 - 2. Scope
 - 3. Core Principles
@@ -47,12 +46,6 @@ This document describes the TML model, diagrams, validation rules, and project s
 - 20. Change Log
 
 ---
-
-## Visual Reference
-
-The app represents one shared model through multiple aspect views. The metamodel aspect shows element kinds, containment, attributes, and association semantics. Logic, timeline, map, table, and note aspects ask different questions of the same model.
-
-(Images referenced in the original HTML: assets/screenshots/workspace-metamodel.png, logic-aspect.png, timeline-aspect.png, map-aspect.png, table-aspect.png, notepad-aspects.png)
 
 ## 1. Purpose
 
@@ -453,6 +446,3 @@ Define "Trinity definition" -> "Trinity"
 - May 25, 2026 — 0.2: Clarified `.tmlbundle` as the preferred saved format and `.tmlproj` as the simple AI-generated import format.
 - May 18, 2026 — 0.1: Created the first working specification aligned with the TML Flow metamodel, associations, dates, diagrams, serialization, and examples.
 
----
-
-End of converted markdown. Original HTML images, tables, and code samples retained or summarized where noted.
