@@ -1,9 +1,10 @@
 # TML
-Theology Modeling Language: A visual modeling workspace for theology, philosophy, and history.
+
+**Theology Modeling Language** is a visual modeling workspace for theology, philosophy, and history.
 
 ## Download
 
-Download the latest Windows installer from the Releases section.
+Download the latest Windows installer from the **Releases** section.
 
 ## Current status
 
@@ -13,3 +14,9 @@ TML Flow is currently under active development. Back up important project files 
 
 - Windows 10 or Windows 11
 - 64-bit operating system
+
+## Questions and support
+
+For questions about TML Flow, contact:
+
+**TheologyML@outlook.com**
