@@ -32,14 +32,7 @@ Use the Windows installer whose name follows this pattern:
 ```
 TML Flow-<version>-win-x64.exe
 ```
-
-For the current external-test release, the file is:
-
-```
-TML Flow-0.9.0-beta.1-win-x64.exe
-```
-
-If you received TML Flow from someone else, copy the installer to your computer before starting it. You only need the `.exe` file to install the app. The `.blockmap` file is release metadata and is not needed for a manual installation.
+You only need the `.exe` file to install the app.
 
 > The current installer is an unsigned external-test build. Install it only when it came from a source you trust. Windows may display an unknown-publisher or SmartScreen warning.
 
